@@ -14,3 +14,4 @@ Get more information from the Meta Quest Developer Documentation
 
 按钮点击：手柄点到按钮，按下a键确认
 
+加了1.	震动和声音 2.Threshold显示 3.模型不佳 加入投票扛干扰增加鲁棒性 但是还可以继续加cv预处理 现在投票3/10 （3/5明显不行）4.csv保存逻辑render 的InitializeLogs里 5.model显示问题还是因为只有水平被单独拿出来了
